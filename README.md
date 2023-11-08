@@ -1,4 +1,4 @@
 # enthrax-demo
 this is my first github repository.
 <br>
-Author: Praveen Sharma
+<h1>Author: Praveen Sharma<\h1>
